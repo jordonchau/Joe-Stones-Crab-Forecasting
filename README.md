@@ -5,3 +5,5 @@ Analyzed 4 years of monthly sales data in Excel to identify seasonal trends and 
 Written Report: 
 https://github.com/jordonchau/Joe-Stone-s-Crab-Forecasting/blob/main/Project%202%20(1).pdf
 
+Excel File:
+https://github.com/jordonchau/Joe-Stone-s-Crab-Forecasting/blob/main/Project%202-1.xlsx
